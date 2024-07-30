@@ -6,5 +6,7 @@ export default defineConfig({
   plugins: [react(), tsconfigPaths()],
   test: {
     environment: 'jsdom',
+   coverage: {
+      reporter: ['json-summary', 'json']
   },
 })
