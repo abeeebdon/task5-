@@ -1,0 +1,7 @@
+services:
+  frontend:
+    image: hngtechie/aivideo:prod
+    ports:
+      - 5000:3000
+    volumes:
+      - ../../.env:/app/.env
