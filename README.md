@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Video
 
-## Getting Started
+Leap is a web app designed to facilitate easy and efficient money transfers across borders. It provides users with real-time exchange rate information, low transaction fees, and swift delivery of funds.
 
-First, run the development server:
+> Live demo [_here_]().
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Table of Contents
+
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Authors](#authors)
+* [License](#license)
+
+## General Information
+
+The primary goal is to offer a seamless experience for individuals and businesses seeking cost-effective and quick cross-border financial transactions.
+
+## Technologies Used
+
+* __Frontend__: Nextjs, TailwindCSS, Shadcn
+
+## Features
+
+## Screenshots
+
+* Not available
+
+## Setup
+
+* Clone the repository:
+
+```sh
+git clone https://github.com/hngprojects/aivideo_fe
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+  pnpm
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* Start the server:
 
-## Learn More
+```sh
+  pnpm dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Status
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Project is: _in progress_
 
-## Deploy on Vercel
+## Room for Improvement
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgements
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Authors
+
+## License
+
+This project is open source and available under the [APACHE 2.0](./LICENSE)
