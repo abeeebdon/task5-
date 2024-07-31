@@ -1,6 +1,5 @@
 # AI Video
 
-Leap is a web app designed to facilitate easy and efficient money transfers across borders. It provides users with real-time exchange rate information, low transaction fees, and swift delivery of funds.
 
 > Live demo [_here_]().
 
@@ -19,8 +18,6 @@ Leap is a web app designed to facilitate easy and efficient money transfers acro
 * [License](#license)
 
 ## General Information
-
-The primary goal is to offer a seamless experience for individuals and businesses seeking cost-effective and quick cross-border financial transactions.
 
 ## Technologies Used
 
