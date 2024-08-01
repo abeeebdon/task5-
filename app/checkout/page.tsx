@@ -1,5 +1,7 @@
-export default Checkout = ()=>{
-    return <main>
-        <section></section>
-    </main>
+import React from 'react'
+
+const page = () => {
+  return <div>page</div>
 }
+
+export default page
