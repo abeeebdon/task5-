@@ -126,7 +126,7 @@ const Pricing = () => {
           <button
             className={`px-3 py-[6px] rounded-[10px] ${
               btnActive === 1
-                ? 'bg-white'
+                ? 'bg-[#fff]'
                 : 'bg-transparent font-[400] text-[#1F1F1F]'
             }`}
             onClick={() => setBtnActive(1)}
@@ -164,7 +164,7 @@ const Pricing = () => {
           <div>
             <ul className="text-4 text-[#4D4E51] leading-6">
               <li className="list-disc">
-                AI-powered transcription, subtitles and translation
+                AI -powered transcription, subtitles and translation
               </li>
               <li className="list-disc">10 minutes for a single file</li>
               <li className="list-disc">File export not available</li>
