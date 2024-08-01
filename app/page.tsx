@@ -5,8 +5,8 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
         <h1>onvey</h1>
-        <Link href="/pricing"></Link>
-        <Link href="/checkout"></Link>
+        <Link href="/pricing">Pricing</Link>
+        <Link href="/checkout">Checkout</Link>
       </div>
     </main>
   )
